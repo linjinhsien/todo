@@ -1,4 +1,5 @@
-# To-do
+
+# To-do  操作 DOM元素
 
 HTMLとJavaScriptで作成したシンプルなTODOアプリです。
 
